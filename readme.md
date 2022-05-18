@@ -13,7 +13,7 @@ The api should be able to do the following:
 3. Remove a parking lot
 4. Register a car (license plate) entering a parking lot
 5. Register a car (lincense palte) exiting a parking lot
-6. Get a list of all cars in a parking lot at a given time (can be now or in the past)
+6. Get a list of all cars in a parking lot at a given time (can be now or in the past). Consider here that a lot of data could be returned and we want to display it on the frontend. 
 7. Get a count of all cars in a parking lot at a given time (can be now or in the past)
 8. Find a parking lot with available spaces right now
 
